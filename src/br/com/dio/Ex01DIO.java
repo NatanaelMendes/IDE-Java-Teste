@@ -1,6 +1,6 @@
 package br.com.dio;
 
-public class PrimeiroContato {
+public class Ex01DIO {
 
 	public static void main(String[] args) {
 
