@@ -12,7 +12,10 @@ public class main {
 		Mensagem.saudacao(15);
 		Mensagem.saudacao(22);
 		Mensagem.saudacao(25);
-		
+        System.out.println("Exercício empréstimo");
+        Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
+        Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
+        Emprestimo.calcular(1000, 5);
 	}
 
 }
